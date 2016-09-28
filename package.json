@@ -1,0 +1,30 @@
+{
+  "name": "food-truck-api",
+  "version": "1.0.0",
+  "description": "api for tracking local food trucks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://digikidd@github.com/digikidd/kbc-food-truck.git"
+  },
+  "author": "kbc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digikidd/kbc-food-truck/issues"
+  },
+  "homepage": "https://github.com/digikidd/kbc-food-truck#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "mongoose": "^4.5.6",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^1.9.2"
+  }
+}

@@ -1,0 +1,18 @@
+Think about functionality
+Create schemas!!
+Create routes file
+Export and require routes???
+
+google map model:
+api call
+truck location
+user update on truck location
+refresh map area for updated locations
+
+
+
+
+
+
+schemas
+    add truck
